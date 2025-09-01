@@ -28,11 +28,11 @@ This Power BI project presents a comprehensive financial dashboard built using c
 ## 📁 File Structure
 Credit-Card-Financial-Dashboard/  <br>
 
-│ ├── credit_card.csv # Transaction-level financial data <br>
-├── customer.csv # Customer demographic and profile data <br>
-├── Credit_Card_Project.pdf # Project documentation and design overview <br>
-├── Dashboard.pbix # Power BI dashboard file <br>
-└── README.md # Project overview and instructions <br>
+│ ├── credit_card.csv                             # Transaction-level financial data <br>
+├── customer.csv                                  # Customer demographic and profile data <br>
+├── Credit_Card_Project.pdf                       # Project documentation and design overview <br>
+├── Dashboard.pbix                                # Power BI dashboard file <br>
+└── README.md                                     # Project overview and instructions <br>
 
 
 

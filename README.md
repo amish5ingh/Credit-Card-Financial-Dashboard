@@ -58,6 +58,15 @@ Include screenshots of your Power BI dashboard here to showcase key visuals like
 
 ---
 
+## 📊 Dashboard Outputs
+
+### 🖥️ Credit Card Customer Report  
+![Dashboard Overview](CreditCardCustomerReport.png))
+
+### 💳 Credit Card Transition Report
+![Transition Summary](CreditCardTransitionReport.png)
+
+
 ## 🎯 Business Use Cases
 
 - Targeted marketing campaigns  
